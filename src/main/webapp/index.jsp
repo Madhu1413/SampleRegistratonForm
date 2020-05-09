@@ -56,7 +56,7 @@ id="personaladdress" size="30"></td>
 <option value="Mumbai">MUMBAI</option>
 <option value="Goa">GOA</option>
 <option value="Patna">PATNA</option>
-<option value="Patna">BANGALORE</option>
+<option value="Sikkim">SIKKIM</option>
 </select></td>
 </tr>
 
@@ -90,7 +90,7 @@ id="personaladdress" size="30"></td>
 <option value="New Delhi">NEW DELHI</option>
 <option value="Mumbai">MUMBAI</option>
 <option value="Goa">GOA</option>
-<option value="Sikkim">SIKKIM</option>
+<option value="Goa">SIKKIM</option>
 <option value="Bihar">BIHAR</option>
 </select></td>
 </tr>
