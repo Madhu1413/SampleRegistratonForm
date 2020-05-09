@@ -94,6 +94,7 @@ id="personaladdress" size="30"></td>
 <option value="Bihar">BIHAR</option>
 </select></td>
 </tr>
+	
 <tr>
 <td>PinCode</td>
 <td><input type="text" name="pincode" id="pincode" size="30"></td>
